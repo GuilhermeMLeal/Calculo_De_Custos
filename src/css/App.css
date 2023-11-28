@@ -1,0 +1,18 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: auto;
+  background-color: #f4f4f4;
+}
+
+.middle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
